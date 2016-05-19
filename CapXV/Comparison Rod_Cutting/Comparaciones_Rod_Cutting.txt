@@ -1,0 +1,28 @@
+Rod_cutting_Brute_Force.cpp
+datos -> tiempo (ms)
+   10 -> 1
+   20 -> 191
+   25 -> 6294
+
+Rod_cutting_Top_Down.cpp
+Datos -> tiempo (ms)
+   10 -> 0
+   20 -> 0
+   25 -> 1
+  100 -> 3
+  500 -> 30
+ 1000 -> 136
+ 5000 -> 2286
+10000 -> 9013
+
+Rod_cutting_Bottom_Up.cpp
+Datos -> tiempo (ms)
+   10 -> 0
+   20 -> 1
+   25 -> 1
+  100 -> 1
+  500 -> 7
+ 1000 -> 13
+ 5000 -> 200
+10000 -> 786
+50000 -> 19389
