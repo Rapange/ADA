@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465434066 source:d:\c++\graph\main.cpp
+	<iostream>
+	<vector>
+	<utility>
+
